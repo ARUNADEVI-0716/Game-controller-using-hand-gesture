@@ -26,9 +26,6 @@
 
 ---
 
-## ▶️ Demo Video
-🎥 *Demo video available in the repository*  
-
 
 
 ---
